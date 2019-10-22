@@ -2,7 +2,7 @@
 	$server="";
 	$dbName="";
 	$user=""; 
-	$db="";
+	$passwort="";
 
-	$pdo = new PDO("mysql:host=".$server."; dbname=" . $dbName, $user, $db);
+	$pdo = new PDO("mysql:host=".$server."; dbname=" . $dbName, $user, $passwort);
 ?>
