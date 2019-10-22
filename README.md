@@ -1,7 +1,9 @@
 # Hydrantenpflege
 Webanwendung um Hydranten mit dem Smartphone GPS genau zu erfassen.
 
-Hi at all,
+Ich benutze für dieses Projekt:
 
-this is Sebastian from Germany.
-I'm building web-projects in HTML, PHP and Mysql.
+* Bootsrap: https://getbootstrap.com/
+* https://leafletjs.com/
+
+Zum Installieren muss nur die Datenbankverbindung in der "inc.db.php" eingestellt werden und die Tabelle "hydranten" erstellt werden (hydranten.sql).
