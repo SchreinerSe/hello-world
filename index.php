@@ -58,7 +58,7 @@
 		<!-- Optional JavaScript -->
 		<script>
 //			var map = L.map('map').fitWorld();
-			var map = L.map('map').setView([51.505, -0.09], 13);
+			var map = L.map('map').setView([49.264770, 8.137209], 13);
 
 			L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
 				maxZoom: 18,
